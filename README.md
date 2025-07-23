@@ -34,7 +34,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🖥️ [HR Analysis Attrition](https://github.com/sitizaharahedi/HR-Analysis-Attrition) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWJhODc1MGMtMjQzMS00Njc2LWE3MzQtYzI4ZWJlOTk4OWViIiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
 | 🏨 [Customer Feedback](https://github.com/sitizaharahedi/Customer-Feedback) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZiODE5Y2QtMjdiZC00YTJmLWI3MTEtOGVlOThhOTRiNjViIiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
 | 🚗 [Car Sales Performance](https://github.com/sitizaharahedi/Car-Sales-Performance) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZiODE5Y2QtMjdiZC00YTJmLWI3MTEtOGVlOThhOTRiNjViIiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
-| 📈 [Sales Performace](link) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlMmU1MjUtMjM2NC00ZWUxLThjYWEtOTBkOTY4YmU5NGY1IiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
+| 📈 [Sales Performace](https://github.com/sitizaharahedi/Sales-Performance) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlMmU1MjUtMjM2NC00ZWUxLThjYWEtOTBkOTY4YmU5NGY1IiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
 
 ***
 
