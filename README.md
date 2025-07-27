@@ -56,7 +56,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🏨 [Sales Performance for Bicycle Shop](https://github.com/sitizaharahedi/Customer-Feedback) | This sales dashboard provides an overview of revenue, profit, and unit sales by product, customer, country, and segment. It highlights key insights such as top-selling product (PROD_ID_002), monthly performance trends, and customer contributions. | [Dashboard](https://drive.google.com/uc?export=download&id=1A3GB8K0NfBIUpE0PzM2SLUkuxeDQLmqL) |
+| 🏨 [Sales Performance for Bicycle Shop](https://github.com/sitizaharahedi/Sales-Performance-Bicycle-Shop) | This sales dashboard provides an overview of revenue, profit, and unit sales by product, customer, country, and segment. It highlights key insights such as top-selling product (PROD_ID_002), monthly performance trends, and customer contributions. | [Dashboard](https://drive.google.com/uc?export=download&id=1A3GB8K0NfBIUpE0PzM2SLUkuxeDQLmqL) |
 | 🚗 [Car Sales Performance](https://github.com/sitizaharahedi/Car-Sales-Performance) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZiODE5Y2QtMjdiZC00YTJmLWI3MTEtOGVlOThhOTRiNjViIiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
 | 📈 [Sales Performace](https://github.com/sitizaharahedi/Sales-Performance) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlMmU1MjUtMjM2NC00ZWUxLThjYWEtOTBkOTY4YmU5NGY1IiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
 
