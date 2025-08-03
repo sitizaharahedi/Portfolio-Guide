@@ -3,21 +3,9 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [SQL](#sql)
 - [Python](#python)
 - [Power_BI](#power_bi)
-- [Tableau](#tableau)
 - [Excel](#excel)
-
-***
-
-# SQL
-
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
-| 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning, data analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
 
 ***
 
@@ -39,16 +27,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🏨 [Customer Feedback](https://github.com/sitizaharahedi/Customer-Feedback) | Customer feedback data for hotel services including overall rating, visit purpose, gender, NPS score, and source of information, segmented over time. This dashboard visualizes satisfaction trends across departments like staff, room, facility, and restaurant to highlight key service insights and customer sentiment. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZiODE5Y2QtMjdiZC00YTJmLWI3MTEtOGVlOThhOTRiNjViIiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
 | 🚗 [Car Sales Performance](https://github.com/sitizaharahedi/Car-Sales-Performance) | This dashboard presents comprehensive year-to-date (YTD) and month-to-date (MTD) car sales performance, including total sales value, average price, units sold, and sales trends by region, company, body style, and color. It visualizes detailed transactional data and insights into dealer performance, customer purchases, and vehicle preferences across the U.S. market. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZiODE5Y2QtMjdiZC00YTJmLWI3MTEtOGVlOThhOTRiNjViIiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
 | 📈 [Sales Performace](https://github.com/sitizaharahedi/Sales-Performance) | This dashboard provides a detailed view of sales and profit performance, highlighting total sales, profit margins, and transaction volumes by county, customer, and product. Interactive filters allow analysis by quarter and year to track trends over time. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlMmU1MjUtMjM2NC00ZWUxLThjYWEtOTBkOTY4YmU5NGY1IiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
-
-***
-
-# Tableau
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| 🏨 [Customer Feedback](https://github.com/sitizaharahedi/Customer-Feedback) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZiODE5Y2QtMjdiZC00YTJmLWI3MTEtOGVlOThhOTRiNjViIiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
-| 🚗 [Car Sales Performance](https://github.com/sitizaharahedi/Car-Sales-Performance) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZiODE5Y2QtMjdiZC00YTJmLWI3MTEtOGVlOThhOTRiNjViIiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
-| 📈 [Sales Performace](https://github.com/sitizaharahedi/Sales-Performance) | Description. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlMmU1MjUtMjM2NC00ZWUxLThjYWEtOTBkOTY4YmU5NGY1IiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D) |
 
 ***
 
