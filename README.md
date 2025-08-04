@@ -1,6 +1,6 @@
 ## Siti Zaharah's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+![Hi, I'm Siti Zaharah](./banner2.png)
 
 ## 📚 Table of Contents
 - [Python](#python)
