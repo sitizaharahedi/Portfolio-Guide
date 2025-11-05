@@ -3,9 +3,19 @@
 ![Hi, I'm Siti Zaharah](./banner2.png)
 
 ## 📚 Table of Contents
+- [Software_Engineering](#softwareengineering)
 - [Python](#python)
 - [Power_BI](#power_bi)
 - [Excel](#excel)
+
+***
+
+# Software_Engineering
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 🛍️ [CRM Sales Opportunities](https://github.com/sitizaharahedi/Python-Projects/blob/main/CRM_Data_Cleaning_FIXED.ipynb) |   ... | ... | ... |   
+| 🏦 [Bank Marketing](https://github.com/sitizaharahedi/Python-Projects/blob/main/Bank_Marketing_FIXED.ipynb) | ... | ... |  ... |   
+| ⚡ [Power Consumption](https://github.com/sitizaharahedi/Python-Projects/blob/main/Power_Consumption_FIXED.ipynb) | ... | ... | ... |   
 
 ***
 
