@@ -3,8 +3,8 @@
 ![Hi, I'm Siti Zaharah](./banner2.png)
 
 ## 📚 Table of Contents
-- [Software_Engineering](#softwareengineering)
-- [Data Science & Analytics](#python)
+- [Software_Engineering](#software_engineering)
+- [Data Science & Analytics](#data_science_&_analytics)
 
 ***
 
@@ -17,7 +17,7 @@
 
 ***
 
-# Data Science & Analytics
+# Data_Science_&_Analytics
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 🛍️ [CRM Sales Opportunities](https://github.com/sitizaharahedi/Python-Projects/blob/main/CRM_Data_Cleaning_FIXED.ipynb) |   Data Wrangling, EDA, Data Modelling | This project explores a CRM system designed for a computer hardware company, analyzing customer, product, sales team, and pipeline data. The focus is on understanding sales opportunity stages, identifying pipeline bottlenecks, and uncovering patterns that can improve deal conversion rates. | pandas, seaborn, matplotlib, scikit-learn |     
