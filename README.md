@@ -2,6 +2,13 @@
 
 ![Hi, I'm Siti Zaharah](./banner2.png)
 
+Hi, I'm Siti Zaharah 👋  
+Software Engineer (Python & Web) | Backend & Full-Stack Developer  
+
+I’m passionate about building practical software solutions that automate processes, support decision-making, and deliver meaningful results.
+
+---
+
 ## 📚 Table of Contents
 - [Software_Engineering](#software_engineering)
 - [Data_Science_&_Analytics](#data_science_&_analytics)
