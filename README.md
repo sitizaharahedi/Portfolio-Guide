@@ -4,7 +4,7 @@
 
 ## 📚 Table of Contents
 - [Software_Engineering](#software_engineering)
-- [Data Science & Analytics](#data_science_&_analytics)
+- [Data_Science_&_Analytics](#data_science_&_analytics)
 
 ***
 
