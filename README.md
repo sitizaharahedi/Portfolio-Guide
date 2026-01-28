@@ -1,6 +1,6 @@
 ## Siti Zaharah's Portfolio
 
-![Hi, I'm Siti Zaharah](./banner.png)
+![Hi, I'm Siti Zaharah](./banner2.png)
 
 ## 📚 Table of Contents
 - [Software_Engineering](#softwareengineering)
